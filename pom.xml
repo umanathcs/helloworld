@@ -65,7 +65,7 @@
                         <phase>package</phase>
                         <goals><goal>copy-dependencies</goal></goals>
                         <configuration>
-                            <includeArtifactIds>webapp-runner</includeArtifactIds>
+                            <includeArtifactIds>jetty-runner</includeArtifactIds>
                         </configuration>
                     </execution>
                 </executions>
